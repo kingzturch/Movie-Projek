@@ -12,8 +12,8 @@ Movie Project adalah aplikasi berbasis web yang menampilkan daftar film populer,
 ## 🛠 Teknologi yang Digunakan
 
 - **Frontend**: React.js, Tailwind CSS
-- **Backend/API**: TMDb API *(jika menggunakan layanan API film)*
-- **State Management**: React Context / Redux *(jika digunakan)*
+- **Backend/API**: TMDb API 
+- **State Management**: React Context / Redux 
 - **Deployment**: Vercel / Netlify / GitHub Pages
 
 ## 📥 Instalasi dan Cara Menjalankan
